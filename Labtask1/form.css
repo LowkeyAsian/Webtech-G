@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(180, 165, 122);
+  }
+  p1 {
+      color: rgb(110, 116, 121);
+
+  }
+  h2 {
+      color: rgb(220, 0, 0);
+  }
+  label{
+      font-weight: bold;
+  }

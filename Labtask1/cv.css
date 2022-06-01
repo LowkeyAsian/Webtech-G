@@ -1,0 +1,16 @@
+body{
+    background-color: #fffdd0;
+  }
+  
+  h3 {
+    color: rgb(223, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  img {
+      image-resolution: 1080px;
+  }
