@@ -1,0 +1,18 @@
+[
+    {
+        "name": "mike",
+        "e-mail": "abcd@aiub.edu",
+        "username": "mike",
+        "password": "12345678",
+        "gender": "male",
+        "dob": "2022-06-08"
+    },
+    {
+        "name": "Papri Saha",
+        "e-mail": "paprisaha986@gmail.com",
+        "username": "Papri",
+        "password": "12345678",
+        "gender": "Female",
+        "dob": "1998-12-01"
+    }
+]
